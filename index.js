@@ -38,8 +38,3 @@ program.parse(process.argv);
 const sysCommands = program.opts();
 
 commandHandler(sysCommands);
-
-// user input command in commandLine where command equal to conrtoller keys
-// call function from controller equal to user command
-// put other parameters into controller function
-// return the result of processing the command
