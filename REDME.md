@@ -5,6 +5,7 @@
 > [!IMPORTANT]
 > Rules for entering console commands: in the line with the file call, write the following structure [ --someAction yourCommand]. For example: node main --action list
 
+- [x] #739
 - [] To display all the data of the .json file you can write:
   "node index --action list" of run a short test command: "npm run listTest"
 
@@ -14,7 +15,7 @@
 
 - [] To delete a contact, you need to write the "remove" command after the --action keyword and contact's id after the --id keyword, for example: "node index --action remove --id C4DKiRv8DkYKSVa-4ngZ3" or run the test command : "removeTest"
 
-@Anrii :black_flag:, :star_struck:, 	:computer:, :star_struck:,  :black_flag:
+@Anrii :black_flag: :star_struck:	:computer: :star_struck: :black_flag:
 
 ### A brief description of the program logic:
 
