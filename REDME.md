@@ -2,8 +2,8 @@
 
 ## Main commands for the program operation
 
-[!IMPORTANT]
-Rules for entering console commands: in the line with the file call, write the following structure [ --someAction yourCommand]. For example: node main --action list
+> [!IMPORTANT]
+> Rules for entering console commands: in the line with the file call, write the following structure [ --someAction yourCommand]. For example: node main --action list
 
 - [] To display all the data of the .json file you can write:
   "node index --action list" of run a short test command: "npm run listTest"
