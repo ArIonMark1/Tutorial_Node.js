@@ -1,6 +1,6 @@
-## Команда: node index --action list
+# Команда: node index --action list
 
-# Відповідь:
+## Відповідь:
 
 - [x] [
       {
@@ -77,9 +77,9 @@
       }
       ]
 
-## Команда: node index --action get --id Z5sbDlS7pCzNsnAHLtDJd
+# Команда: node index --action get --id Z5sbDlS7pCzNsnAHLtDJd
 
-# Відповідь:
+## Відповідь:
 
 - [x] {
       id: 'Z5sbDlS7pCzNsnAHLtDJd',
@@ -88,9 +88,9 @@
       phone: '(715) 598-5792'
       }
 
-## Команда: node index --action add --name Allen_Raymond --email nulla.ante@vestibul.co.uk --phone (992) 914-3792
+# Команда: node index --action add --name Allen_Raymond --email nulla.ante@vestibul.co.uk --phone (992) 914-3792
 
-# Відповідь:
+## Відповідь:
 
 - [x] {
       id: 'CuaJ4bwoK5IW9cXnaxQaS',
@@ -99,9 +99,9 @@
       phone: '(992)'
       }
 
-## Команда: node index --action remove --id C4DKiRv8DkYKSVa-4ngZ3
+# Команда: node index --action remove --id C4DKiRv8DkYKSVa-4ngZ3
 
-# Відповідь:
+## Відповідь:
 
 - [x] [
       {
