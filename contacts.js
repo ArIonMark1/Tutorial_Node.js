@@ -21,8 +21,6 @@ async function addContact(params) {
   return newContact;
 }
 async function getContactById({ id }) {
-  // return contact object by ID
-  // console.log("Managment id: ", id);
   const allData = await listContacts();
   const targetContact = allData.find((contact) => contact.id === id);
   return targetContact || null;
