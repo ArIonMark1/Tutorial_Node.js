@@ -77,7 +77,7 @@
       }
       ]
 
-# Команда: node index --action get --id Z5sbDlS7pCzNsnAHLtDJd
+# Команда: node index --action get --id " Z5sbDlS7pCzNsnAHLtDJd "
 
 ## Відповідь:
 
@@ -99,7 +99,7 @@
       phone: '(992)'
       }
 
-# Команда: node index --action remove --id C4DKiRv8DkYKSVa-4ngZ3
+# Команда: node index --action remove --id " C4DKiRv8DkYKSVa-4ngZ3 "
 
 ## Відповідь:
 
