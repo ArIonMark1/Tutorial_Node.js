@@ -1,24 +1,24 @@
-# Команда: node index --action list
+## Команда: node index --action list
 
-## Відповідь:
+Відповідь:
 
 - [x] https://monosnap.com/file/rGABIAxSQRGBXegefSbYSxuFF1H6X5
 
-# Команда: node index --action get --id " Z5sbDlS7pCzNsnAHLtDJd "
+## Команда: node index --action get --id " Z5sbDlS7pCzNsnAHLtDJd "
 
-## Відповідь:
+Відповідь:
 
 - [x] https://monosnap.com/file/r0b55jVIvQd2gU9qqMDEzokPeosO3i
 
-# Команда: node index --action add --name Allen_Raymond --email nulla.ante@vestibul.co.uk --phone (992) 914-3792
+## Команда: node index --action add --name Allen_Raymond --email nulla.ante@vestibul.co.uk --phone (992) 914-3792
 
-## Відповідь:
+Відповідь:
 
 - [x] https://monosnap.com/file/CN87yayzZvVSEVxkYUXHBJS042P5Po
 
-# Команда: node index --action remove --id " C4DKiRv8DkYKSVa-4ngZ3 "
+## Команда: node index --action remove --id " C4DKiRv8DkYKSVa-4ngZ3 "
 
-## Відповідь:
+Відповідь:
 
 - [x] https://monosnap.com/file/f1WyeMLm1DYI9V7LsM7up3IErfxgmn
 
