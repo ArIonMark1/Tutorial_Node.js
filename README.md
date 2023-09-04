@@ -2,115 +2,25 @@
 
 ## Відповідь:
 
-- [x] [
-      {
-      id: 'drsAJ4SHPYqZeG-83QTVW',
-      name: 'Kennedy Lane',
-      email: 'mattis.Cras@nonenimMauris.net',
-      phone: '(542) 451-7038'
-      },
-      {
-      id: 'vza2RIzNGIwutCVCs4mCL',
-      name: 'Wylie Pope',
-      email: 'est@utquamvel.net',
-      phone: '(692) 802-2949'
-      },
-      {
-      id: '05olLMgyVQdWRwgKfg5J6',
-      name: 'Cyrus Jackson',
-      email: 'nibh@semsempererat.com',
-      phone: '(501) 472-5218'
-      },
-      {
-      id: '1DEXoP8AuCGYc1YgoQ6hw',
-      name: 'Abbot Franks',
-      email: 'scelerisque@magnis.org',
-      phone: '(186) 568-3720'
-      },
-      {
-      id: 'Z5sbDlS7pCzNsnAHLtDJd',
-      name: 'Reuben Henry',
-      email: 'pharetra.ut@dictum.co.uk',
-      phone: '(715) 598-5792'
-      },
-      {
-      id: 'C9sjBfCo4UJCWjzBnOtxl',
-      name: 'Simon Morton',
-      email: 'dui.Fusce.diam@Donec.com',
-      phone: '(233) 738-2360'
-      },
-      {
-      id: 'e6ywwRe4jcqxXfCZOj_1e',
-      name: 'Thomas Lucas',
-      email: 'nec@Nulla.com',
-      phone: '(704) 398-7993'
-      },
-      {
-      id: 'rsKkOQUi80UsgVPCcLZZW',
-      name: 'Alec Howard',
-      email: 'Donec.elementum@scelerisquescelerisquedui.net',
-      phone: '(748) 206-2688'
-      },
-      {
-      id: '9eYYXLZWZnaGzCME1BKq2',
-      name: 'Some Dude',
-      email: 'dude123@gmail.com',
-      phone: '(651) 789-2311'
-      },
-      {
-      id: 'Xl6tRFxiqxRY0F8Ob-lip',
-      name: 'Chaim Lewin',
-      email: 'chaim@egetlacus.cam',
-      phone: '(294) 840-6685'
-      },
-      {
-      id: 'MXSOTFN2isYWfaZl1hGgU',
-      name: 'Allen',
-      email: 'nulla.ante@vestibul.co.uk',
-      phone: '(992)'
-      },
-      {
-      id: '1FJbbC7XsixKIISDavUdN',
-      name: 'Allen_Raymond',
-      email: 'nulla.ante@vestibul.co.uk',
-      phone: '(992)'
-      }
-      ]
+- [x] https://monosnap.com/file/rGABIAxSQRGBXegefSbYSxuFF1H6X5
 
 # Команда: node index --action get --id " Z5sbDlS7pCzNsnAHLtDJd "
 
 ## Відповідь:
 
-- [x] {
-      id: 'Z5sbDlS7pCzNsnAHLtDJd',
-      name: 'Reuben Henry',
-      email: 'pharetra.ut@dictum.co.uk',
-      phone: '(715) 598-5792'
-      }
+- [x] https://monosnap.com/file/r0b55jVIvQd2gU9qqMDEzokPeosO3i
 
 # Команда: node index --action add --name Allen_Raymond --email nulla.ante@vestibul.co.uk --phone (992) 914-3792
 
 ## Відповідь:
 
-- [x] {
-      id: 'CuaJ4bwoK5IW9cXnaxQaS',
-      name: 'Allen_Raymond',
-      email: 'nulla.ante@vestibul.co.uk',
-      phone: '(992)'
-      }
+- [x] https://monosnap.com/file/CN87yayzZvVSEVxkYUXHBJS042P5Po
 
 # Команда: node index --action remove --id " C4DKiRv8DkYKSVa-4ngZ3 "
 
 ## Відповідь:
 
-- [x] [
-      {
-      id: 'CuaJ4bwoK5IW9cXnaxQaS',
-      name: 'Allen_Raymond',
-      email: 'nulla.ante@vestibul.co.uk',
-      phone: '(992)'
-      }
-      ]
+- [x] https://monosnap.com/file/f1WyeMLm1DYI9V7LsM7up3IErfxgmn
 
 ##
 
